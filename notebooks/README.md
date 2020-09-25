@@ -75,3 +75,6 @@ We fail to reject the null hypothesis and conclude that there is no significant 
 ![Question3_Sample_Mu_Distributions.png](attachment:Question3_Sample_Mu_Distributions.png)
 
 ***Figure 6***
+
+### Conclusion
+We can state with 95% confidence that orders created durign the Northern Hemisphere Summer have Lower mean "Sale" than orders created during times of the time of year.
